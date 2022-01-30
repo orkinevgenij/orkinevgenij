@@ -4,7 +4,7 @@
 ## I'm a FrontEnd Developer
 - 💪 I like to write code
 - 🎮 I like to play console
-- 🥅 I am constantly learning new things
+- 🕮 I am constantly learning new things
 - 📼 I love watching YouTube  
 
 ### Connect with me:
