@@ -9,8 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="orkinevgenij | Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/642/PNG/512/facebook_icon-icons.com_59205.png" />][facebook]
-[<img align="left" alt="orkinevgenij | Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" />][instagram]
+[<img align="left" alt="orkinevgenij | Facebook" width="22px" src="https://cdn.icon-icons.com/icons2/642/PNG/512/facebook_icon-icons.com_59205.png" />][facebook]
+[<img align="left" alt="orkinevgenij | Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" />][instagram][<img align="left" alt="orkinevgenij | Telegram" width="22px" src="https://cdn.icon-icons.com/icons2/2232/PNG/512/telegram_logo_icon_134592.png" />][telegram]
+
 
 
 <br />
@@ -39,3 +40,4 @@
 
 [instagram]: https://www.instagram.com/corvaxv/
 [facebook]: https://www.facebook.com/orkinevgenij/
+[telegram]: @orkinevgenij
