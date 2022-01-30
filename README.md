@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="orkinevgenij | Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/642/PNG/512/facebook_icon-icons.com_59205.png" />][facebook]
-[<img align="left" alt="orkinevgenij | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="orkinevgenij | Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" />][instagram]
 
 
 <br />
