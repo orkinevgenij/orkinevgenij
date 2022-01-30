@@ -33,6 +33,6 @@
 
 
 
-[instagram]: https://www.instagram.com/corvaxv/
+[instagram]: https://www.instagram.com/evgeniiorkin/
 [facebook]: https://www.facebook.com/orkinevgenij/
 [telegram]: https://telegram.me/orkinevgenij
