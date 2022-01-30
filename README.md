@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="orkinevgenij | Facebook" width="22px" src="https://cdn.icon-icons.com/icons2/642/PNG/512/facebook_icon-icons.com_59205.png" />][facebook]
-[<img align="left" alt="orkinevgenij | Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" />][instagram][<img align="left" alt="orkinevgenij | Telegram" width="22px" src="https://cdn.icon-icons.com/icons2/2232/PNG/512/telegram_logo_icon_134592.png" />][telegram]
+[<img align="left" alt="orkinevgenij | Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" />][instagram][<img align="left" alt="orkinevgenij | Telegram" width="22px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_php_storm_alt_macos_bigsur_icon_190056.png" />][telegram]
 
 
 
