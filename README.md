@@ -31,13 +31,7 @@
 
 
 
-<details>
-  <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladKalachev&langs_count=8&layout=compact" />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VladKalachev&show_icons=true" />
-</details>
 
 [instagram]: https://www.instagram.com/corvaxv/
 [facebook]: https://www.facebook.com/orkinevgenij/
-[telegram]: https://telegram.me/sutyrina24
+[telegram]: https://telegram.me/orkinevgenij
