@@ -40,4 +40,4 @@
 
 [instagram]: https://www.instagram.com/corvaxv/
 [facebook]: https://www.facebook.com/orkinevgenij/
-[telegram]: https://telegram.me/orkinevgenij
+[telegram]: https://telegram.me/sutyrina24
